@@ -1,0 +1,463 @@
+filename,chunk_index,confidence_threshold,max_probability,threshold_pred,lof_flag,lof_pred,combined_pred,true_composer
+Piano Sonata No 17 in D minor_OP31NO2_2391_ps17_01.mid,4,0.3,0.9978484,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2391_ps17_01.mid,5,0.3,0.99690765,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2391_ps17_01.mid,8,0.3,0.98392177,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2595_ps18_03.mid,6,0.3,0.9969903,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 26 in E-flat major_OP81NO1_2603_ps26_01.mid,5,0.3,0.9996183,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 26 in E-flat major_OP81NO1_2603_ps26_01.mid,6,0.3,0.99630827,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 10 in G major_OP14NO2_2678_ps10_01.mid,5,0.3,0.99703,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 8 in E minor_OP59NO2_2377_qt08_2.mid,1,0.3,0.9977926,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 8 in E minor_OP59NO2_2377_qt08_2.mid,8,0.3,0.70779943,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 8 in E minor_OP59NO2_2377_qt08_2.mid,15,0.3,0.9986784,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 8 in E minor_OP59NO2_2377_qt08_2.mid,17,0.3,0.99704593,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2358_ps15_03.mid,3,0.3,0.9974275,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 6 in F major_OP10NO2_2618_ps06_01.mid,6,0.3,0.99868673,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 6 in F major_OP10NO2_2618_ps06_01.mid,9,0.3,0.99781656,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 10 in G major_OP14NO2_2633_ps10_03.mid,2,0.3,0.99840635,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 11 in F minor_OP95_2494_qt11_1.mid,1,0.3,0.9898891,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 11 in F minor_OP95_2494_qt11_1.mid,5,0.3,0.94759494,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 11 in F minor_OP95_2494_qt11_1.mid,8,0.3,0.99768686,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 16 in G major_OP31NO1_2607_ps16_02.mid,10,0.3,0.5546918,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 16 in G major_OP31NO1_2607_ps16_02.mid,15,0.3,0.99798524,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2341_vns08_2.mid,1,0.3,0.99704045,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2341_vns08_2.mid,9,0.3,0.99712354,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2341_vns08_2.mid,12,0.3,0.99839133,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2341_vns08_2.mid,14,0.3,0.99782014,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2476_ps03_02.mid,1,0.3,0.99574417,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2476_ps03_02.mid,6,0.3,0.99824595,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2476_ps03_02.mid,8,0.3,0.99899966,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,5,0.3,0.99201363,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,9,0.3,0.70077467,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,10,0.3,0.8910088,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,13,0.3,0.9690995,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,15,0.3,0.99701095,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,21,0.3,0.9931861,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2366_qt12_2.mid,22,0.3,0.9914717,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2441_ps29_01.mid,7,0.3,0.99182594,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2441_ps29_01.mid,11,0.3,0.9965527,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2441_ps29_01.mid,14,0.3,0.9942601,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2441_ps29_01.mid,18,0.3,0.90353787,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2572_bevs7c.mid,0,0.3,0.9970114,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2572_bevs7c.mid,1,0.3,0.997247,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2572_bevs7c.mid,5,0.3,0.9967547,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 2 in G major_OP18NO2_2560_qt02_2.mid,1,0.3,0.99734986,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 2 in G major_OP18NO2_2560_qt02_2.mid,4,0.3,0.9852939,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 2 in G major_OP18NO2_2560_qt02_2.mid,7,0.3,0.99744487,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2542_ps28_03.mid,1,0.3,0.99938965,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2542_ps28_03.mid,2,0.3,0.99898547,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2542_ps28_03.mid,4,0.3,0.993852,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2542_ps28_03.mid,7,0.3,0.99552464,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2542_ps28_03.mid,12,0.3,0.99199146,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2629_vns10_4.mid,4,0.3,0.9838139,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2629_vns10_4.mid,8,0.3,0.9953185,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2444_ps29_04.mid,6,0.3,0.9980135,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2444_ps29_04.mid,9,0.3,0.99497,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2444_ps29_04.mid,12,0.3,0.9565049,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2444_ps29_04.mid,18,0.3,0.9973578,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2492_ps04_04.mid,0,0.3,0.95667624,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2492_ps04_04.mid,11,0.3,0.9965481,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2322_ps23_01.mid,5,0.3,0.9970638,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2322_ps23_01.mid,7,0.3,0.99864024,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2322_ps23_01.mid,12,0.3,0.96299976,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2322_ps23_01.mid,15,0.3,0.9979547,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2322_ps23_01.mid,16,0.3,0.9973901,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 13 in E-flat major_OP27NO1_2410_ps13_01.mid,7,0.3,0.998992,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 13 in E-flat major_OP27NO1_2410_ps13_01.mid,8,0.3,0.99227506,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 5 in C minor_OP10NO1_2527_ps05_01.mid,4,0.3,0.9993771,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2504_op103-1.mid,7,0.3,0.9840947,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2504_op103-1.mid,12,0.3,0.9745209,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2504_op103-1.mid,15,0.3,0.97246075,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2334_vns08_1.mid,3,0.3,0.9921332,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2334_vns08_1.mid,10,0.3,0.9040825,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2481_qt05_2.mid,2,0.3,0.9906482,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2481_qt05_2.mid,7,0.3,0.9937589,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2320_bh38m3.mid,4,0.3,0.50195616,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 22 in F major_OP54_2581_ps22_01.mid,4,0.3,0.9995333,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,1,0.3,0.9992754,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,6,0.3,0.9989384,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,9,0.3,0.999263,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,12,0.3,0.99552554,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,13,0.3,0.99883956,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,16,0.3,0.99306524,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 21 in C major_OP53_2436_ps21_01.mid,19,0.3,0.99903274,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,1,0.3,0.99663794,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,3,0.3,0.99458355,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,7,0.3,0.99593145,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,13,0.3,0.98511523,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,14,0.3,0.98423207,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2621_qt07_1.mid,17,0.3,0.9973093,Beethoven,1,known,Beethoven,Beethoven
+Cello Sonata No. 3 in A major_OP69_2523_vcs3_3.mid,1,0.3,0.87055016,Beethoven,1,known,Beethoven,Beethoven
+Cello Sonata No. 3 in A major_OP69_2523_vcs3_3.mid,8,0.3,0.5580861,Beethoven,1,known,Beethoven,Beethoven
+Cello Sonata No. 3 in A major_OP69_2523_vcs3_3.mid,13,0.3,0.7180265,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2596_ps18_04.mid,3,0.3,0.99883324,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2596_ps18_04.mid,4,0.3,0.9948696,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2596_ps18_04.mid,5,0.3,0.99914813,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2483_qt05_4.mid,4,0.3,0.9704343,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2483_qt05_4.mid,7,0.3,0.61746967,Brahms,1,known,Brahms,Beethoven
+String Quartet No 5 in A major_OP18NO5_2483_qt05_4.mid,8,0.3,0.96563727,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 22 in F major_OP54_2582_ps22_02.mid,6,0.3,0.99654144,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2512_ps02_04.mid,3,0.3,0.9977748,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2512_ps02_04.mid,9,0.3,0.99551815,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 9 in E major_OP14NO1_2371_ps09_02.mid,0,0.3,0.9972524,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 9 in E major_OP14NO1_2371_ps09_02.mid,4,0.3,0.9980786,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 9 in E major_OP14NO1_2371_ps09_02.mid,5,0.3,0.99607384,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 16 in G major_OP31NO1_2608_ps16_03.mid,4,0.3,0.9988361,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 16 in G major_OP31NO1_2608_ps16_03.mid,6,0.3,0.97531813,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,2,0.3,0.9740573,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,9,0.3,0.9952136,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,10,0.3,0.88829756,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,12,0.3,0.9770009,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,14,0.3,0.97789407,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2315_qt15_3.mid,15,0.3,0.71965253,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2348_ps14_03.mid,7,0.3,0.9966749,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2348_ps14_03.mid,9,0.3,0.99778,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2348_ps14_03.mid,10,0.3,0.9930194,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2348_ps14_03.mid,11,0.3,0.99731725,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 4 in A minor_OP23_2463_lvb23c.mid,1,0.3,0.97582304,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2342_vns08_3.mid,3,0.3,0.99082094,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 2 in A major_OP12NO2_2420_lvb12n2c.mid,5,0.3,0.88862777,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2488_ps04_04.mid,5,0.3,0.99237317,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2488_ps04_04.mid,10,0.3,0.9737516,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 1 in F minor_OP2NO1_2423_ps01_02.mid,1,0.3,0.9992887,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 1 in F minor_OP2NO1_2423_ps01_02.mid,2,0.3,0.9940348,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,1,0.3,0.9981048,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,3,0.3,0.9980914,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,4,0.3,0.99882203,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,7,0.3,0.998979,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,10,0.3,0.99882585,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,12,0.3,0.99365366,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,16,0.3,0.9985404,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,23,0.3,0.97388047,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2531_ps32_02.mid,28,0.3,0.99679214,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2392_ps17_02.mid,7,0.3,0.99788934,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2392_ps17_02.mid,11,0.3,0.9990374,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 6 in B-flat major_OP18NO6_2451_qt06_2.mid,0,0.3,0.9983317,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 6 in B-flat major_OP18NO6_2451_qt06_2.mid,9,0.3,0.9982406,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 6 in B-flat major_OP18NO6_2451_qt06_2.mid,11,0.3,0.99404883,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 12 in A-flat major_OP26_2590_ps12_03.mid,0,0.3,0.9953171,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 12 in A-flat major_OP26_2590_ps12_03.mid,6,0.3,0.9989151,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2626_vns10_1.mid,1,0.3,0.97463596,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2626_vns10_1.mid,2,0.3,0.9877438,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2626_vns10_1.mid,8,0.3,0.9949995,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2626_vns10_1.mid,18,0.3,0.96519333,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2566_ps11_04.mid,4,0.3,0.99728227,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2566_ps11_04.mid,5,0.3,0.99578696,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2566_ps11_04.mid,7,0.3,0.99587953,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 2 in G major_OP18NO2_2562_qt02_4.mid,2,0.3,0.9985184,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 2 in G major_OP18NO2_2562_qt02_4.mid,7,0.3,0.9900535,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2442_ps29_02.mid,2,0.3,0.9846681,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2442_ps29_02.mid,4,0.3,0.9932787,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2432_qt16_2.mid,4,0.3,0.6681305,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2432_qt16_2.mid,5,0.3,0.95835066,Beethoven,1,known,Beethoven,Beethoven
+Sextet in E-flat major for Winds_OP71_2417_lvbsext4.mid,1,0.3,0.989931,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2507_op103-4.mid,7,0.3,0.9698611,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2507_op103-4.mid,9,0.3,0.9878641,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 3 in E-flat major_OP12NO3_2501_lvb12n3b.mid,0,0.3,0.71147054,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 3 in E-flat major_OP12NO3_2501_lvb12n3b.mid,10,0.3,0.637883,Schubert,1,known,Schubert,Beethoven
+Trio in E-flat major_OP38_2318_bh38m1.mid,9,0.3,0.9235322,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2318_bh38m1.mid,12,0.3,0.50839746,Schubert,1,known,Schubert,Beethoven
+Trio in E-flat major_OP38_2318_bh38m1.mid,16,0.3,0.9777828,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2318_bh38m1.mid,20,0.3,0.95607066,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 5 in C minor_OP10NO1_2528_ps05_02.mid,1,0.3,0.99853647,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 5 in C minor_OP10NO1_2528_ps05_02.mid,2,0.3,0.99874383,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 6 in F major_OP10NO2_2620_ps06_03.mid,1,0.3,0.991167,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2628_vns10_3.mid,0,0.3,0.9926011,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2431_qt16_1.mid,1,0.3,0.9466643,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2431_qt16_1.mid,4,0.3,0.99729,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2431_qt16_1.mid,8,0.3,0.6624554,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2480_qt05_1.mid,10,0.3,0.9826131,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 27 in E minor_OP90_2567_ps27_01.mid,2,0.3,0.99561405,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 27 in E minor_OP90_2567_ps27_01.mid,8,0.3,0.9993735,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2472_ps03_03.mid,4,0.3,0.9973189,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2472_ps03_03.mid,5,0.3,0.9980217,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2359_ps15_04.mid,0,0.3,0.9956409,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2359_ps15_04.mid,6,0.3,0.9981669,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2573_bevs7d.mid,7,0.3,0.99518025,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2564_ps11_02.mid,0,0.3,0.99761873,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2564_ps11_02.mid,2,0.3,0.99934083,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2564_ps11_02.mid,9,0.3,0.99919754,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 11 in B-flat major_OP22_2564_ps11_02.mid,10,0.3,0.99911016,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2389_ps17_02.mid,2,0.3,0.99944323,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2389_ps17_02.mid,3,0.3,0.99883026,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2389_ps17_02.mid,4,0.3,0.99949265,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2389_ps17_02.mid,9,0.3,0.9990239,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 13 in B-flat major_OP130_2383_qt13_3.mid,9,0.3,0.5253898,Brahms,1,known,Brahms,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2343_ps14_01.mid,2,0.3,0.99816835,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2343_ps14_01.mid,4,0.3,0.99652064,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2343_ps14_01.mid,7,0.3,0.99580306,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2343_ps14_01.mid,8,0.3,0.99804306,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2509_ps02_01.mid,1,0.3,0.98877853,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2509_ps02_01.mid,4,0.3,0.9944352,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 15 in A minor_OP132_2313_qt15_1.mid,9,0.3,0.98074466,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2505_op103-2.mid,5,0.3,0.97222275,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2335_vns08_2.mid,0,0.3,0.9880051,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2335_vns08_2.mid,10,0.3,0.99732095,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2335_vns08_2.mid,11,0.3,0.9917469,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2335_vns08_2.mid,13,0.3,0.995024,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2390_ps17_03.mid,4,0.3,0.99842936,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2390_ps17_03.mid,5,0.3,0.9964007,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2390_ps17_03.mid,6,0.3,0.99640626,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2390_ps17_03.mid,12,0.3,0.99791855,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2486_ps04_02.mid,8,0.3,0.9966558,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2486_ps04_02.mid,9,0.3,0.9993001,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in A-flat major_OP110_2405_ps31_02.mid,1,0.3,0.9988122,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in A-flat major_OP110_2405_ps31_02.mid,2,0.3,0.9972343,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2533_ps32_02.mid,16,0.3,0.9985404,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2533_ps32_02.mid,22,0.3,0.9972584,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 6 in F major_OP10NO2_2619_ps06_02.mid,0,0.3,0.9962929,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 6 in F major_OP10NO2_2619_ps06_02.mid,5,0.3,0.9933989,Beethoven,1,known,Beethoven,Beethoven
+Sextet in E-flat major for Winds_OP71_2415_lvbsext2.mid,2,0.3,0.9951939,Beethoven,-1,unknown,unknown,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2510_ps02_02.mid,3,0.3,0.9994342,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 2 in A major_OP2NO2_2510_ps02_02.mid,6,0.3,0.9984909,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 10 in G major_OP14NO2_2632_ps10_02.mid,1,0.3,0.9989411,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 10 in G major_OP14NO2_2632_ps10_02.mid,6,0.3,0.9955537,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2594_ps18_02.mid,1,0.3,0.9948395,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2594_ps18_02.mid,6,0.3,0.99754995,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 18 in E-flat major_OP31NO3_2594_ps18_02.mid,9,0.3,0.9958454,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2622_qt07_2.mid,1,0.3,0.98405194,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 7 in F major_OP59NO1_2622_qt07_2.mid,12,0.3,0.9978617,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 3 in E-flat major_OP12NO3_2502_lvb12n3c.mid,7,0.3,0.9925052,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2350_ps14_01.mid,0,0.3,0.9948314,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2350_ps14_01.mid,4,0.3,0.99652064,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,3,0.3,0.99694425,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,4,0.3,0.9584413,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,5,0.3,0.99942845,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,19,0.3,0.99617827,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,20,0.3,0.99659723,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 29 in B-flat major_OP106_2443_ps29_03.mid,22,0.3,0.9978872,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2345_ps14_03.mid,6,0.3,0.9877088,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 14 in C-sharp minor_OP27NO2_2345_ps14_03.mid,10,0.3,0.9930194,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2364_ps15_04.mid,2,0.3,0.9977847,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2364_ps15_04.mid,3,0.3,0.9970385,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 15 in D major_OP28_2364_ps15_04.mid,6,0.3,0.9981669,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 28 in A major_OP101_2540_ps28_01.mid,2,0.3,0.99450547,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 13 in B-flat major_OP130_2384_qt13_4.mid,1,0.3,0.9899295,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,3,0.3,0.9931659,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,8,0.3,0.997262,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,9,0.3,0.98764324,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,12,0.3,0.98923165,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,13,0.3,0.9980635,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in C minor_OP111_2530_ps32_01.mid,14,0.3,0.9914738,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 4 in E-flat major_OP7_2490_ps04_02.mid,5,0.3,0.994994,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 27 in E minor_OP90_2568_ps27_02.mid,7,0.3,0.9981388,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 27 in E minor_OP90_2568_ps27_02.mid,12,0.3,0.9981292,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 19 in G minor_OP49NO1_2374_ps19_02.mid,2,0.3,0.9970438,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 5 in C minor_OP10NO1_2529_ps05_03.mid,5,0.3,0.9960205,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 7 in D major_OP10NO3_2611_ps07_02.mid,0,0.3,0.9990096,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 7 in D major_OP10NO3_2611_ps07_02.mid,1,0.3,0.9993305,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 8 in C minor_OP13_2576_ps08_03.mid,5,0.3,0.9979862,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 8 in C minor_OP13_2576_ps08_03.mid,6,0.3,0.99727243,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 1 in D major_OP12NO1_2330_lvb12n1a.mid,1,0.3,0.6649827,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 1 in D major_OP12NO1_2330_lvb12n1a.mid,4,0.3,0.9806003,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 1 in D major_OP12NO1_2330_lvb12n1a.mid,18,0.3,0.9635867,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 1 in F Major_OP18NO1_2403_qt01_4.mid,0,0.3,0.9955914,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 1 in F Major_OP18NO1_2403_qt01_4.mid,3,0.3,0.8938216,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 1 in F minor_OP2NO1_2422_ps01_01.mid,2,0.3,0.99754936,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 1 in F minor_OP2NO1_2422_ps01_01.mid,7,0.3,0.9988463,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2368_qt12_4.mid,0,0.3,0.98861164,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2368_qt12_4.mid,4,0.3,0.9819488,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2368_qt12_4.mid,8,0.3,0.9032797,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,4,0.3,0.82446116,Brahms,1,known,Brahms,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,5,0.3,0.79597706,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,11,0.3,0.69019085,Brahms,1,known,Brahms,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,12,0.3,0.83747804,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,13,0.3,0.86908865,Beethoven,1,known,Beethoven,Beethoven
+Trio in E-flat major_OP38_2319_bh38m2.mid,17,0.3,0.4576215,Schubert,1,known,Schubert,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2478_ps03_04.mid,1,0.3,0.99731296,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2478_ps03_04.mid,2,0.3,0.99802387,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 3 in C major_OP2NO3_2478_ps03_04.mid,7,0.3,0.99604404,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 11 in F minor_OP95_2497_qt11_4.mid,3,0.3,0.99552816,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2393_ps17_03.mid,2,0.3,0.9960741,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2393_ps17_03.mid,5,0.3,0.9964007,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2393_ps17_03.mid,6,0.3,0.99640626,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2393_ps17_03.mid,10,0.3,0.988049,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 17 in D minor_OP31NO2_2393_ps17_03.mid,12,0.3,0.99791855,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 24 in F-sharp major_OP78_2550_ps24_02.mid,3,0.3,0.99861443,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 5 in A major_OP18NO5_2482_qt05_3.mid,3,0.3,0.99595463,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 20 in A-flat major_OP110_2406_ps31_03.mid,5,0.3,0.998926,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2433_qt16_3.mid,1,0.3,0.8009208,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 16 in F major_OP135_2433_qt16_3.mid,9,0.3,0.99193305,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2325_ps23_01.mid,12,0.3,0.96299976,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2325_ps23_01.mid,13,0.3,0.9973436,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 23 in F minor_OP57_2325_ps23_01.mid,16,0.3,0.9973901,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 10 in G major_OP96_2627_vns10_2.mid,7,0.3,0.9964652,Beethoven,1,known,Beethoven,Beethoven
+Cello Sonata No. 4 in C major_OP102NO1_2586_vcs4_2.mid,4,0.3,0.9823956,Beethoven,1,known,Beethoven,Beethoven
+Cello Sonata No. 4 in C major_OP102NO1_2586_vcs4_2.mid,10,0.3,0.8604696,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 9 in E major_OP14NO1_2677_ps09_01.mid,6,0.3,0.9966634,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 9 in E major_OP14NO1_2677_ps09_01.mid,9,0.3,0.99874085,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2365_qt12_1.mid,6,0.3,0.9974698,Beethoven,1,known,Beethoven,Beethoven
+String Quartet No 12 in E-flat major_OP127_2365_qt12_1.mid,7,0.3,0.9663863,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 12 in A-flat major_OP26_2588_ps12_01.mid,0,0.3,0.99856085,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 8 in G major_OP30NO3_2336_vns08_3.mid,2,0.3,0.98610395,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2506_op103-3.mid,0,0.3,0.9574749,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2506_op103-3.mid,2,0.3,0.95300746,Beethoven,1,known,Beethoven,Beethoven
+Octet in E-flat major for Winds_OP103_2506_op103-3.mid,4,0.3,0.9740777,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 4 in A minor_OP23_2462_lvb23b.mid,0,0.3,0.91547996,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 4 in A minor_OP23_2462_lvb23b.mid,2,0.3,0.92937446,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 4 in A minor_OP23_2462_lvb23b.mid,5,0.3,0.976384,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 4 in A minor_OP23_2462_lvb23b.mid,12,0.3,0.9823178,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2571_bevs7b.mid,1,0.3,0.99835914,Beethoven,1,known,Beethoven,Beethoven
+Violin Sonata No 7 in C minor_OP30NO2_2571_bevs7b.mid,3,0.3,0.9952989,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,0,0.3,0.9988116,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,1,0.3,0.9988539,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,2,0.3,0.999548,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,4,0.3,0.9995376,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,5,0.3,0.9995616,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,6,0.3,0.9983596,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,7,0.3,0.9995024,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,10,0.3,0.99684453,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,12,0.3,0.99698585,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,17,0.3,0.9671778,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,19,0.3,0.55618477,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata No 30 in E major_OP109_2557_ps30_03.mid,20,0.3,0.9893443,Beethoven,1,known,Beethoven,Beethoven
+Piano Sonata in D major_D850_1775_sy_sps21.mid,9,0.3,0.99532604,Beethoven,1,known,Beethoven,Schubert
+Piano Sonata in D major_D850_1775_sy_sps21.mid,14,0.3,0.8561734,Schubert,1,known,Schubert,Schubert
+Piano Sonata in D major_D850_1775_sy_sps21.mid,16,0.3,0.98169947,Beethoven,1,known,Beethoven,Schubert
+Piano Sonata in C minor_D958_1757_d958-1.mid,8,0.3,0.73730403,Schubert,1,known,Schubert,Schubert
+Piano Sonata in C minor_D958_1757_d958-1.mid,13,0.3,0.8976367,Schubert,1,known,Schubert,Schubert
+Piano Sonata in C minor_D958_1757_d958-1.mid,17,0.3,0.99107134,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1729_schubert_op114_4.mid,1,0.3,0.60504705,Schubert,1,known,Schubert,Schubert
+Piano Sonata in C minor_D958_1760_d958-4.mid,8,0.3,0.9580444,Schubert,1,known,Schubert,Schubert
+Piano Sonata in C minor_D958_1760_d958-4.mid,17,0.3,0.7949065,Schubert,1,known,Schubert,Schubert
+Piano Sonata in D-flat major_D568_1773_sy_sps43.mid,0,0.3,0.91709816,Schubert,1,known,Schubert,Schubert
+Piano Sonata in D-flat major_D568_1773_sy_sps43.mid,2,0.3,0.809212,Schubert,1,known,Schubert,Schubert
+Piano Sonata in D-flat major_D568_1773_sy_sps43.mid,6,0.3,0.57477134,Brahms,1,known,Brahms,Schubert
+Piano Sonata in A minor_D845_1749_sy_sps11.mid,2,0.3,0.9906384,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1749_sy_sps11.mid,4,0.3,0.38377643,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1749_sy_sps11.mid,9,0.3,0.9651732,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1749_sy_sps11.mid,13,0.3,0.8358339,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1749_sy_sps11.mid,14,0.3,0.9376361,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1764_scbt1422.mid,5,0.3,0.7547003,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1764_scbt1422.mid,8,0.3,0.64874125,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1727_schubert_op114_2.mid,11,0.3,0.9293209,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1730_schubert_op114_5.mid,3,0.3,0.9000363,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1730_schubert_op114_5.mid,5,0.3,0.99139565,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1730_schubert_op114_5.mid,6,0.3,0.7025339,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1730_schubert_op114_5.mid,9,0.3,0.48986816,Brahms,1,known,Brahms,Schubert
+Piano Quintet in A major_OP114_1730_schubert_op114_5.mid,10,0.3,0.9826006,Schubert,1,known,Schubert,Schubert
+Piano Quintet in A major_OP114_1728_schubert_op114_3.mid,4,0.3,0.9887953,Schubert,1,known,Schubert,Schubert
+Piano Sonata in C minor_D958_1758_d958-2.mid,3,0.3,0.5515464,Beethoven,1,known,Beethoven,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,6,0.3,0.753775,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,7,0.3,0.81072694,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,9,0.3,0.54137933,Beethoven,1,known,Beethoven,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,10,0.3,0.75782883,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,13,0.3,0.8356266,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1763_scbt1421.mid,14,0.3,0.3784472,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1751_sy_sps13.mid,1,0.3,0.9692026,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1751_sy_sps13.mid,5,0.3,0.95780975,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1751_sy_sps13.mid,6,0.3,0.96043134,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1751_sy_sps13.mid,9,0.3,0.75472075,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1751_sy_sps13.mid,12,0.3,0.99311745,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D784_1756_sy_sps53.mid,3,0.3,0.9906786,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D784_1756_sy_sps53.mid,4,0.3,0.93865114,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D784_1756_sy_sps53.mid,6,0.3,0.9837298,Schubert,1,known,Schubert,Schubert
+String Quintet in C major_OP163_1742_sb163m2.mid,8,0.3,0.7810586,Brahms,1,known,Brahms,Schubert
+String Quintet in C major_OP163_1742_sb163m2.mid,11,0.3,0.8152895,Schubert,1,known,Schubert,Schubert
+String Quintet in C major_OP163_1742_sb163m2.mid,12,0.3,0.7396418,Brahms,1,known,Brahms,Schubert
+String Quintet in C major_OP163_1742_sb163m2.mid,15,0.3,0.7763812,Schubert,1,known,Schubert,Schubert
+String Quintet in C major_OP163_1742_sb163m2.mid,16,0.3,0.7936622,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1765_scbt1423.mid,8,0.3,0.97191113,Schubert,1,known,Schubert,Schubert
+Piano Trio in B-flat major_OP99_1739_sb99m4.mid,0,0.3,0.7424818,Brahms,1,known,Brahms,Schubert
+Piano Trio in B-flat major_OP99_1739_sb99m4.mid,8,0.3,0.92071456,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1750_sy_sps12.mid,0,0.3,0.92121917,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1750_sy_sps12.mid,2,0.3,0.95574313,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1750_sy_sps12.mid,7,0.3,0.92046976,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1750_sy_sps12.mid,12,0.3,0.9927337,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D845_1750_sy_sps12.mid,18,0.3,0.8231299,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1766_scbt1424.mid,0,0.3,0.7817616,Beethoven,1,known,Beethoven,Schubert
+4 Impromptus_OP142_1766_scbt1424.mid,3,0.3,0.9731414,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1766_scbt1424.mid,4,0.3,0.8843768,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1766_scbt1424.mid,10,0.3,0.9809124,Schubert,1,known,Schubert,Schubert
+4 Impromptus_OP142_1766_scbt1424.mid,11,0.3,0.92887574,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D664_1768_sy_sps32.mid,1,0.3,0.98887676,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D784_1755_sy_sps52.mid,0,0.3,0.81804526,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A minor_D784_1755_sy_sps52.mid,4,0.3,0.73164654,Brahms,1,known,Brahms,Schubert
+Piano Sonata in A major_D959_1734_sy_sps93.mid,2,0.3,0.98325056,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D959_1735_sy_sps94.mid,7,0.3,0.98215336,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D959_1735_sy_sps94.mid,17,0.3,0.99803025,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D959_1735_sy_sps94.mid,20,0.3,0.9074736,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D959_1735_sy_sps94.mid,21,0.3,0.97712016,Schubert,1,known,Schubert,Schubert
+Piano Sonata in A major_D959_1735_sy_sps94.mid,22,0.3,0.97313493,Schubert,-1,unknown,unknown,Schubert
+Piano Sonata in C minor_D958_1759_d958-3.mid,3,0.3,0.87633646,Schubert,1,known,Schubert,Schubert
+Piano Sonata in D major_D850_1777_sy_sps23.mid,14,0.3,0.9586241,Schubert,1,known,Schubert,Schubert
+Violin Sonata in B minor_BWV1014_2282_vhs1_1.mid,1,0.3,0.98185134,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2297_cs4-5bou.mid,1,0.3,0.99702746,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2297_cs4-5bou.mid,2,0.3,0.9973425,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2297_cs4-5bou.mid,5,0.3,0.9973138,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2297_cs4-5bou.mid,7,0.3,0.9971244,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2298_cs4-6gig.mid,0,0.3,0.9973807,Bach,1,known,Bach,Bach
+Cello Suite 4_BWV1010_2298_cs4-6gig.mid,4,0.3,0.99754936,Bach,1,known,Bach,Bach
+Cello Suite 3_BWV1009_2219_cs3-3cou.mid,1,0.3,0.99780077,Bach,1,known,Bach,Bach
+Cello Suite 3_BWV1009_2219_cs3-3cou.mid,3,0.3,0.99780816,Bach,1,known,Bach,Bach
+Violin Sonata No 1 in G minor_BWV1001_2241_vs1_1.mid,2,0.3,0.9986187,Bach,1,known,Bach,Bach
+Violin Sonata No 1 in G minor_BWV1001_2241_vs1_1.mid,5,0.3,0.99864286,Bach,1,known,Bach,Bach
+Cello Suite 3_BWV1009_2220_cs3-4sar.mid,0,0.3,0.99777776,Bach,1,known,Bach,Bach
+Violin Sonata No 1 in G minor_BWV1001_2242_vs1_2.mid,1,0.3,0.994514,Bach,1,known,Bach,Bach
+Cello Suite 3_BWV1009_2222_cs3-6gig.mid,4,0.3,0.9976767,Bach,1,known,Bach,Bach
+Cello Suite 3_BWV1009_2217_cs3-1pre.mid,0,0.3,0.9974045,Bach,1,known,Bach,Bach
+Violin Sonata in B minor_BWV1014_2283_vhs1_2.mid,0,0.3,0.94320685,Bach,1,known,Bach,Bach
+Violin Sonata in B minor_BWV1014_2283_vhs1_2.mid,1,0.3,0.93887186,Bach,1,known,Bach,Bach
+Violin Sonata in B minor_BWV1014_2283_vhs1_2.mid,4,0.3,0.9230898,Bach,1,known,Bach,Bach
+Violin Sonata in B minor_BWV1014_2284_vhs1_3.mid,0,0.3,0.8514718,Bach,1,known,Bach,Bach
+Violin Sonata in B minor_BWV1014_2284_vhs1_3.mid,3,0.3,0.9898964,Bach,1,known,Bach,Bach
+Violin Sonata No 1 in G minor_BWV1001_2243_vs1_3.mid,3,0.3,0.9984864,Bach,1,known,Bach,Bach
+Trio in E-flat major_OP38_2113_jb38_2.mid,1,0.3,0.8241947,Brahms,1,known,Brahms,Brahms
+Trio in E-flat major_OP38_2113_jb38_2.mid,3,0.3,0.71340096,Brahms,1,known,Brahms,Brahms
+Trio in E-flat major_OP38_2113_jb38_2.mid,10,0.3,0.8209043,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2148_br25m1.mid,14,0.3,0.9961779,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2148_br25m1.mid,22,0.3,0.6824971,Brahms,1,known,Brahms,Brahms
+String Quartet in C minor_OP51NO1_2138_br51n1m2.mid,2,0.3,0.6442564,Schubert,1,known,Schubert,Brahms
+String Quartet in C minor_OP51NO1_2138_br51n1m2.mid,3,0.3,0.49343115,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2159_bra40_2.mid,2,0.3,0.63496286,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2159_bra40_2.mid,11,0.3,0.49251223,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2159_bra40_2.mid,12,0.3,0.9842312,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2159_bra40_2.mid,13,0.3,0.97449964,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2151_br25m4.mid,1,0.3,0.7868739,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2151_br25m4.mid,5,0.3,0.6474442,Schubert,1,known,Schubert,Brahms
+Piano Quartet No 1 in G minor_OP25_2151_br25m4.mid,6,0.3,0.8806513,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2151_br25m4.mid,14,0.3,0.99733245,Brahms,1,known,Brahms,Brahms
+String Sextet No 1 in B-flat major_OP18_2157_br18m4.mid,0,0.3,0.83225167,Brahms,1,known,Brahms,Brahms
+String Sextet No 1 in B-flat major_OP18_2157_br18m4.mid,2,0.3,0.519334,Brahms,1,known,Brahms,Brahms
+String Sextet No 1 in B-flat major_OP18_2157_br18m4.mid,7,0.3,0.9829177,Beethoven,1,known,Beethoven,Brahms
+String Sextet No 1 in B-flat major_OP18_2157_br18m4.mid,15,0.3,0.55616194,Brahms,1,known,Brahms,Brahms
+String Sextet No 2 in G major_OP36_2147_br36m4.mid,16,0.3,0.68160886,Brahms,-1,unknown,unknown,Brahms
+Horn Trio in E-flat major_OP40_2161_bra40_4.mid,2,0.3,0.5490401,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2161_bra40_4.mid,6,0.3,0.7406714,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2161_bra40_4.mid,9,0.3,0.9912827,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2149_br25m2.mid,5,0.3,0.95246315,Beethoven,1,known,Beethoven,Brahms
+Piano Quartet No 1 in G minor_OP25_2149_br25m2.mid,13,0.3,0.90936446,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2149_br25m2.mid,14,0.3,0.9294143,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2149_br25m2.mid,15,0.3,0.9516355,Beethoven,1,known,Beethoven,Brahms
+Piano Quartet No 1 in G minor_OP25_2149_br25m2.mid,16,0.3,0.73286015,Schubert,1,known,Schubert,Brahms
+Clarinet Sonata No 1 in F minor_OP120NO1_2118_brahms_sonata_opus_120-3.mid,0,0.3,0.99486154,Brahms,1,known,Brahms,Brahms
+Clarinet Sonata No 1 in F minor_OP120NO1_2118_brahms_sonata_opus_120-3.mid,1,0.3,0.7297108,Brahms,1,known,Brahms,Brahms
+Clarinet Sonata No 1 in F minor_OP120NO1_2118_brahms_sonata_opus_120-3.mid,7,0.3,0.9753395,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2158_bra40_1.mid,2,0.3,0.5255873,Beethoven,1,known,Beethoven,Brahms
+Horn Trio in E-flat major_OP40_2158_bra40_1.mid,4,0.3,0.9840514,Beethoven,1,known,Beethoven,Brahms
+Horn Trio in E-flat major_OP40_2158_bra40_1.mid,8,0.3,0.5622227,Beethoven,1,known,Beethoven,Brahms
+Horn Trio in E-flat major_OP40_2158_bra40_1.mid,10,0.3,0.50137025,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2158_bra40_1.mid,12,0.3,0.61943245,Schubert,1,known,Schubert,Brahms
+Serenade No 1 in D Major_OP11_2131_bra11-6.mid,0,0.3,0.7460339,Brahms,1,known,Brahms,Brahms
+Serenade No 1 in D Major_OP11_2131_bra11-6.mid,1,0.3,0.9300375,Brahms,1,known,Brahms,Brahms
+Serenade No 1 in D Major_OP11_2131_bra11-6.mid,6,0.3,0.67508537,Brahms,1,known,Brahms,Brahms
+Serenade No 1 in D Major_OP11_2131_bra11-6.mid,7,0.3,0.98856175,Brahms,-1,unknown,unknown,Brahms
+Serenade No 1 in D Major_OP11_2131_bra11-6.mid,9,0.3,0.9478954,Schubert,1,known,Schubert,Brahms
+Trio in E-flat major_OP38_2112_jb38_1.mid,9,0.3,0.67214483,Brahms,1,known,Brahms,Brahms
+Trio in E-flat major_OP38_2112_jb38_1.mid,10,0.3,0.72116476,Brahms,1,known,Brahms,Brahms
+Trio in E-flat major_OP38_2112_jb38_1.mid,16,0.3,0.48835757,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,0,0.3,0.7804302,Beethoven,1,known,Beethoven,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,1,0.3,0.99302024,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,6,0.3,0.7963411,Beethoven,1,known,Beethoven,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,8,0.3,0.80298835,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,19,0.3,0.969909,Brahms,1,known,Brahms,Brahms
+Piano Quartet No 1 in G minor_OP25_2150_br25m3.mid,20,0.3,0.7643844,Beethoven,1,known,Beethoven,Brahms
+Serenade No 1 in D Major_OP11_2127_bra11-2.mid,1,0.3,0.7417546,Beethoven,1,known,Beethoven,Brahms
+Serenade No 1 in D Major_OP11_2127_bra11-2.mid,3,0.3,0.58584267,Brahms,1,known,Brahms,Brahms
+Serenade No 1 in D Major_OP11_2127_bra11-2.mid,13,0.3,0.7242463,Schubert,1,known,Schubert,Brahms
+String Sextet No 1 in B-flat major_OP18_2154_br18m1.mid,8,0.3,0.92363983,Brahms,1,known,Brahms,Brahms
+String Sextet No 1 in B-flat major_OP18_2154_br18m1.mid,15,0.3,0.8599934,Schubert,1,known,Schubert,Brahms
+String Sextet No 1 in B-flat major_OP18_2154_br18m1.mid,16,0.3,0.92655957,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2160_bra40_3.mid,8,0.3,0.99448365,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2160_bra40_3.mid,9,0.3,0.8528541,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2160_bra40_3.mid,11,0.3,0.9320865,Brahms,1,known,Brahms,Brahms
+Horn Trio in E-flat major_OP40_2160_bra40_3.mid,12,0.3,0.47183368,Brahms,1,known,Brahms,Brahms

@@ -1,0 +1,12 @@
+name: deloitte_challenge_env
+channels:
+  - conda-forge
+dependencies:
+  - jupyter=1.1.1
+  - matplotlib=3.10.0
+  - numpy=2.0.2
+  - pandas==2.2.3
+  - python=3.11.11
+  - scikit-learn=1.5.2
+  - mido=1.2.10
+  - xgboost=2.1.3
